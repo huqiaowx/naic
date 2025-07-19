@@ -1,7 +1,7 @@
 {
   "name": "Скибидиbike",
   "short_name": "Скибидиbike",
-  "start_url": "/index.html",
+  "start_url": "/naic/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#ff6b00",
